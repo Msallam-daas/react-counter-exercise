@@ -1,0 +1,21 @@
+* {
+  /* background-color: aquamarine; */
+  margin: 0px;
+  padding: 0px;
+}
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.button button {
+  background-color: rgb(132, 226, 229);
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.button p {
+  font-size: 20px;
+  text-align: center;
+}
